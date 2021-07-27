@@ -68,8 +68,7 @@ def help():
 
 		extra: copy - copy to transfer area
 		example: create 50 copy
-		obs: dependencie - clipboard ; pip3 install clipboard
-		
+		obs: dependencie - clipboard ; pip3 install clipboard	
 	''')
 	sys.exit(1)
 
