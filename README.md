@@ -17,4 +17,6 @@
 ## Discover offset:
 ![offset_discover](https://user-images.githubusercontent.com/77762068/127091864-1f109ed1-f5cb-46fa-a658-0529b8788f0f.png)
 
-  
+## Check offset:
+![check_in_debugger](https://user-images.githubusercontent.com/77762068/127092297-52c8cdbf-22db-431b-ab0e-89c7e81e7bf1.png)
+
