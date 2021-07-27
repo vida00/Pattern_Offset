@@ -1,6 +1,8 @@
 # Pattern_Offset
 ### My first pattern create/offset
-### differentials: copy to clipboard, the bytes until overwriting the rsp/esp are already subtracted, that is, when the program returns the offset, when you put more bytes it will overwrite the rsp/esp independent of architecture
+### differentials: 
+### - copy to clipboard pattern create 
+### - the bytes until overwriting the rsp/esp are already subtracted, that is, when the program returns the offset, when you put more bytes it will overwrite the rsp/esp independent of architecture
 ### the purpose of this script was to understand how the offset pattern worked.
 
 ## Usage: lifePattern.py <create | offset> <params>
