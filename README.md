@@ -11,5 +11,10 @@
 ## Pattern Create and Copy:
 ![create_and_copy](https://user-images.githubusercontent.com/77762068/127090882-056cf577-0eaa-4c93-ace3-b98721e5e63e.png)
 
-## Pattern Offset:
+## Running with offset:
 ![check_offset](https://user-images.githubusercontent.com/77762068/127091472-01934825-fba3-4fc7-a060-0168fac6152c.png)
+
+## Discover offset:
+![offset_discover](https://user-images.githubusercontent.com/77762068/127091864-1f109ed1-f5cb-46fa-a658-0529b8788f0f.png)
+
+  
